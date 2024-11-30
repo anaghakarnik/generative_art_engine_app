@@ -2,7 +2,7 @@
 
 The **Generative Art Engine** is a creative tool that leverages Python to generate unique and customizable pieces of art. This application combines the power of **Tkinter** for a user-friendly graphical interface and **Turtle Graphics** for rendering intricate designs, offering an accessible platform for exploring generative art.
 
-[View App Demo!]([url](https://drive.google.com/file/d/1Mn-iPmXz-fVkQYAE3CjDpX21ApENYzv2/view?usp=sharing))
+[View App Demo!]([https://drive.google.com/file/d/1Mn-iPmXz-fVkQYAE3CjDpX21ApENYzv2/view?usp=sharing])
 
 ---
 
